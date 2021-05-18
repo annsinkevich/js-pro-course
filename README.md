@@ -1,1 +1,4 @@
-js-pro-course
+___Hanna Sinkevich___
+```
+![foto](/img/foto.img)
+```
